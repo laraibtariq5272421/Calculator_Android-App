@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Shades -->
+    <color name="bg_main">#1C1C1E</color>
+    <color name="bg_display">#1C1C1E</color>
+    <color name="header_bg">#1C1C1E</color>
+
+    <!-- Button Shades -->
+    <color name="btn_number">#333333</color>
+    <color name="btn_number_pressed">#4D4D4D</color>
+    <color name="btn_function">#A5A5A5</color>
+    <color name="btn_clear">#A5A5A5</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_orange">#FF9F0A</color>
+    <color name="accent_orange_dark">#E88E00</color>
+    <color name="accent_red">#FF453A</color>
+    <color name="accent_teal">#333333</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A5A5A5</color>
+    <color name="text_expression">#8E8E93</color>
+</resources>
